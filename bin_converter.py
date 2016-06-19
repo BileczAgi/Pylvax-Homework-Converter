@@ -1,5 +1,5 @@
 """
-Assignement:
+Assignment:
 Write two functions: 
  A) one which converts decimal numbers to binary and 
  B) one which converts from binary numbers to decimal. 
