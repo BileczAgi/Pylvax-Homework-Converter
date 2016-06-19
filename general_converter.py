@@ -1,5 +1,5 @@
 """
-Converts a decimal number to any given numeric system and vice versa
+Converts a decimal number to a given numeric system and vice versa up to the decimal (2-9)
 """
 
 
